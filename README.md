@@ -13,7 +13,7 @@
 ## Contributing
 
 Please fork this repository and contribute back using
-[pull requests](https://github.com/Shashank02051997/FancyToast-Android/pulls).
+[pull requests](https://github.com/Shashank02051997/Shotang-App/pulls).
 
 Any contributions, large or small, major features, bug fixes, are welcomed and appreciated
 but will be thoroughly reviewed .
