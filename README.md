@@ -1,6 +1,6 @@
 # Shotang-App
 
-## Screenshots
+## 📸 Screenshots
 
 **Please click the image below to enlarge.**
 
@@ -26,3 +26,5 @@ but will be thoroughly reviewed .
 
 ### Like our facebook page
 - [Android UI's Bucket](https://www.facebook.com/androiduisbucket)
+
+### Show some :heart: and star the repo to support the project
