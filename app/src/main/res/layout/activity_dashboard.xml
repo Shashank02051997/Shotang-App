@@ -100,6 +100,13 @@
                             android:layout_marginRight="4dp"
                             android:src="@drawable/image1" />
 
+                        <ImageView
+                            android:layout_width="300dp"
+                            android:layout_height="150dp"
+                            android:layout_marginRight="4dp"
+                            android:src="@drawable/image1" />
+
+
                     </LinearLayout>
 
 
