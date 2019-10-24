@@ -127,12 +127,10 @@
                             android:layout_width="0dp"
                             android:layout_height="wrap_content"
                             android:layout_weight="28">
-
                             <ImageView
                                 android:layout_width="72dp"
                                 android:layout_height="72dp"
                                 android:src="@drawable/image2" />
-
                         </LinearLayout>
 
 
